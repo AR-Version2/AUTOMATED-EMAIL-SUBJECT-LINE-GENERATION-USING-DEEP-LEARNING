@@ -343,7 +343,7 @@ An interactive demo application is provided in `scripts/app_...py`.
 
 ## 10. License
 
-All Rights Reserved - see LICENCE file for more.
+All Rights Reserved - see LICENSE file for more.
 
 ## 11. Acknowledgements
 
